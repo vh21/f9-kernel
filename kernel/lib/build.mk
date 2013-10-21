@@ -3,6 +3,7 @@
 # found in the LICENSE file.
 
 lib-str-y += \
+	strlen.o \
 	memcpy.o \
 	memset.o
 
