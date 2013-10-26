@@ -3,6 +3,7 @@
 # found in the LICENSE file.
 
 lib-str-y += \
+	strcat.o \
 	strcpy.o \
 	strlen.o \
 	memcpy.o \
